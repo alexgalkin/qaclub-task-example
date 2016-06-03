@@ -10,6 +10,8 @@ public class Example {
 		
 		System.out.println("Student: " + alex.getName()
 				+ " |  Score: " + alex.getScore());
+		
+		System.out.println("That's it! Just another line.");
 	}
 
 }
